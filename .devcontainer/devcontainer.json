@@ -13,6 +13,7 @@
 		// Configure properties specific to VS Code.
 		"vscode": {
 			"settings": {},
+			"ghcr.io/cirolosapio/devcontainers-features/alpine-gh-copilot-cli:0": {},
 			"extensions": [
 				"streetsidesoftware.code-spell-checker",
 				"ms-python.python",
